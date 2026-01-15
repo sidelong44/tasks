@@ -1,0 +1,17 @@
+{
+   "name": "practice",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "run": "tsc && node dist/index"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/sidelong44/tasks.git"
+   },
+   "private": true,
+   "devDependencies": {
+      "@types/node": "^25.0.9"
+   }
+}
